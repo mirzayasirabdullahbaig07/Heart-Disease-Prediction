@@ -2,11 +2,6 @@
 
 A machine learning web app that predicts whether a patient is at risk of heart disease, based on 13 clinical features. Built with **scikit-learn** (Random Forest) and deployed with **Streamlit**.
 
-## 🚀 Live Demo
-
-> Add your Streamlit Cloud link here once deployed, e.g.
-> `https://your-app-name.streamlit.app`
-
 ## 📁 Project Structure
 
 ```
